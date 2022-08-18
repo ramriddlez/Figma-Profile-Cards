@@ -8,9 +8,9 @@ export default function Info() {
         <img className = "Image" src= {Image} alt ="me" />
         <div className ="Name">
         <h1> Raman Khangura </h1>
-        </div>
         <h4> Front end Developer </h4>
         <h6> laurasmith.website </h6>
+        </div>
         <button  Email />
         <button  LinkedIn />
 

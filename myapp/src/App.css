@@ -20,17 +20,23 @@
   left: 116px;
   top: 44px;
   border-radius: 10px 10px 0px 0px;
+  padding-bottom: 0;
 
 }
 
 .Name {
   color: #ffffff;
   position: absolute;
-  width: 550px;
-  height: 868px;
+  width: 317px;
   top: 382px;
   left: 150px;
-  right: 186px;
+  text-align: center;
+  padding-top: 0;
+  
+}
+
+h4 {
+  color: #F3BF99;
 }
 
 .App-header {
