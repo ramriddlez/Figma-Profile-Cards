@@ -13,6 +13,26 @@
   }
 }
 
+.Image {
+  position: absolute;
+  width: 317px;
+  height: 317px;
+  left: 116px;
+  top: 44px;
+  border-radius: 10px 10px 0px 0px;
+
+}
+
+.Name {
+  color: #ffffff;
+  position: absolute;
+  width: 550px;
+  height: 868px;
+  top: 382px;
+  left: 150px;
+  right: 186px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
